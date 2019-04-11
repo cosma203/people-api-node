@@ -1,0 +1,3 @@
+{
+  "db": "mongodb://localhost/person_api_test"
+}
